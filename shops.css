@@ -1,0 +1,20 @@
+body{background-image:url(im/34.jpg);}
+#header {background:#7B68EE;
+height:136px;}
+#fas{color:red;
+margin-left:655px;
+font-size:50px;}
+#fas:hover{border:3px solid #FF4500;}
+#content{background:#000080;
+height:730px;
+width:30%;
+margin-top:30px;
+}
+#cont{margin-left: 170px;
+font-size:45px;
+color:#D2691E;}
+#al{color:#00FF00;
+font-size:25px;
+margin-top:10px;}
+#al:hover{border: 3px solid #FF4500;} 
+
